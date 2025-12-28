@@ -17,7 +17,7 @@
 #define PLUGIN_URL "https://midnightmass.fun"
 
 #define EF_NODRAW 32
-#define MAX_INDIVIDUAL_TRIGGERS 1024
+#define MAX_INDIVIDUAL_TRIGGERS 2048
 
 // trigger type indices
 enum
