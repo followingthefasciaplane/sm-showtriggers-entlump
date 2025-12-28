@@ -1,5 +1,7 @@
 # entitylump showtriggers
 
+note: my hook_settransmit is still global so you'll need to wait til i get around to focusing on that  
+
 so this is something i made while playing around with sourcemod's new entitylump module added in 1.12. so this won't support any sourcemod version older than 1.12. it is a sourcemod plugin for visualizing and debugging triggers in source engine games. handy for mappers or server owners, or just surfers. this plugin lets you:
 
 - toggle visibility individual triggers by targetname, or classname.
